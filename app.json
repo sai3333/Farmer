@@ -37,12 +37,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username",
-         "value": "D3061"
+         "value": "@where_is_the_real_hero"
       },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
          "required": false,
-         "value": "1080421146"
+         "value": "1013793759"
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
@@ -76,12 +76,12 @@
       "SUDO_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "1080421146"
+         "value": "1013793759"
       },
       "SUPPORT_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "1080421146"
+         "value": "1013793759"
       },
       "TIGER_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
@@ -116,6 +116,6 @@
       "bot"
    ],
    "logo": "https://telegra.ph/file/72b6a2032bd19642ff759.jpg",
-   "name": "phantom",
+   "name": "Farmer",
    "repository": "https://github.com/sai3333/Farmer"
 }
