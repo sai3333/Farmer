@@ -34,7 +34,7 @@ PM_START_TEXT = """
 ┈┈┈┈╲┊┊┊┊╱┈┈┈┈
 ┈┈┈┈▕╲▂▂╱▏┈┈┈┈
 ╱▔▔▔▔┊┊┊┊▔▔▔▔╲
-HAI , MY NAME IS {Farmer} !
+HAI , MY NAME IS {} !
 
 I AM A GROUP MANAGER BOT MAINTAINED BY 
 
@@ -44,7 +44,6 @@ HIT HELP FOR COMMANDS  /help
 
  
 DON'T FORGET TO JOIN MY [CHANNEL](https://t.me/The_Tech_Hackers)
-         MAIN [GROUP](https://t.me/The_Tech_Hackers_group)
 
 MY SOURCE CODE IS AVAILABLE YOU CAN ASK ME
 
@@ -54,7 +53,7 @@ MY SOURCE CODE IS AVAILABLE YOU CAN ASK ME
 
 HELP_STRINGS = """
 
-Hello! my name *{Farmer}*.
+Hello! my name *{}*.
 
 *Main* commands available:
  - /start: start the bot
