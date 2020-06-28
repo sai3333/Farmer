@@ -33,7 +33,7 @@
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": "1080421146"
+         "value": "1013793759"
       },
       "OWNER_USERNAME": {
          "description": "Your username",
@@ -115,7 +115,7 @@
       "manager",
       "bot"
    ],
-   "logo": "https://telegra.ph/file/72b6a2032bd19642ff759.jpg",
+   "logo": "https://telegra.ph/file/73be0cf2fc75d3e69063a.jpg",
    "name": "Farmer",
    "repository": "https://github.com/sai3333/Farmer"
 }
