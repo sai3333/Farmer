@@ -43,11 +43,11 @@ I AM A GROUP MANAGER BOT MAINTAINED BY
 HIT HELP FOR COMMANDS  /help
 
  
-DON'T FORGET TO JOIN MY [CHANNEL](https://t.me/The_Tech_Hackers)
+DON'T FORGET TO JOIN MY MASTER'S CHANNEL @THE_TECH_HACKERS 
 
 MY SOURCE CODE IS AVAILABLE YOU CAN ASK ME
 
-[HERE](https://t.me/The_Tech_hackers)
+[Support group](buttonurl:t.me/The_Tech_Hackers_group)
 
 """
 
